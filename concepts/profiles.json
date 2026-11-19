@@ -1,0 +1,68 @@
+[
+  {
+    "id": "01",
+    "slug": "nia",
+    "name": "Nia Brooks",
+    "age": 20,
+    "context": "Graphic design · Sophomore",
+    "mode": "Reading first",
+    "palette": "Paper + Mint",
+    "colors": [
+      "#F7F4EE",
+      "#49CFB4",
+      "#0A0A0A"
+    ],
+    "file": "01-nia-reading-first.jpg",
+    "quote": "Give me space to read, and make the important idea easy to find.",
+    "bio": "Nia is a graphic design student with dyslexia. She prefers larger text, clear headings, and a calm page with plenty of space between ideas.",
+    "priorities": "Read comfortably, follow the discussion, and keep her own notes easy to find.",
+    "changes": "A wide reading area leads the page. Notes use 20–22 px Inter with generous line spacing. Mint marks the active location; sources sit in a separate strip. A read-aloud control is pictured as a concept.",
+    "hierarchy": "Personal notes → group discussion → course materials",
+    "density": "Spacious",
+    "prompt": "Use a warm paper background with mint highlights. Give my notes larger text and more spacing. Keep the group conversation nearby, but let my own ideas lead the page."
+  },
+  {
+    "id": "02",
+    "slug": "leo",
+    "name": "Leo Park",
+    "age": 21,
+    "context": "Interaction design · Junior",
+    "mode": "Connections first",
+    "palette": "Blue + Pink + Cyan",
+    "colors": [
+      "#4F63FF",
+      "#ED83D3",
+      "#53C2E5"
+    ],
+    "file": "02-leo-connections-first.jpg",
+    "quote": "Let me see which ideas connect while the conversation is still happening.",
+    "bio": "Leo is an interaction design student who prefers arranging ideas spatially. He uses color and position to remember how a question developed from an earlier thought.",
+    "priorities": "See relationships, compare notes at once, and keep the group discussion in view.",
+    "changes": "A large idea board replaces the notebook column. Labeled cards and connecting lines show relationships. A compact icon rail frees up canvas space, while a chat column preserves the conversation.",
+    "hierarchy": "Idea relationships → group discussion → source connections",
+    "density": "Spatial",
+    "prompt": "Put my notes on a visual board. Use blue, pink, and cyan to distinguish labeled note types, show how ideas connect, and keep the discussion visible on the right."
+  },
+  {
+    "id": "03",
+    "slug": "sam",
+    "name": "Sam Rivera",
+    "age": 22,
+    "context": "Digital media · Senior",
+    "mode": "Action first",
+    "palette": "Ink + Yellow + Orange",
+    "colors": [
+      "#0A0A0A",
+      "#FFDE4B",
+      "#FF6925"
+    ],
+    "file": "03-sam-action-first.jpg",
+    "quote": "Show me what to do next, then keep everything I need within reach.",
+    "bio": "Sam is a digital media student who commutes and works part time. He studies in short sessions and prefers a dark interface with compact information and obvious next steps.",
+    "priorities": "Prepare for the next discussion quickly and resume work without hunting through screens.",
+    "changes": "Discussion preparation becomes a prominent checklist. Horizontal navigation opens more space for a dense chat and notes view. Notes become compact rows; yellow identifies priority and orange marks an action.",
+    "hierarchy": "Next discussion task → chat and note list → process and materials",
+    "density": "Compact",
+    "prompt": "Give me a dark workspace with yellow priorities and orange actions. Put the next discussion task first, and show my chat, notes, sources, and progress in a compact overview."
+  }
+]
